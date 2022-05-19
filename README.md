@@ -1,3 +1,4 @@
+<img src="https://github.com/ayushpardeshi/ayushAngularAssignmentt/blob/main/picture.png" style=" width:60px ; height:60px "  >
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
